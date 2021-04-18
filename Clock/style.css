@@ -1,0 +1,27 @@
+body {
+    margin:0;
+    height:100vh;
+    background-color:rgb(219, 170, 170);
+    color: #fff;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+#clock {
+    font-size: 100px;
+    color: rgb(201, 108, 108);
+    padding: 60px;
+    margin:20px;
+    background-color: rgb(75, 61, 199);
+    border-radius: 10px;
+}
+
+.My{
+    color: black;
+    font-size: 80px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 12px;
+}
